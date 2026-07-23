@@ -142,7 +142,7 @@ def plot_reconstructed_mort_w_pc(
         ax.grid(axis="y", alpha=0.3)
     
     fig.suptitle(
-        "Actual vs. SVD Reconstruction of Black Male Opioid Overdoes Mortality by Age Group for Select Years",
+        "Actual vs. SVD Reconstruction of Black Male Opioid Overdose Mortality by Age Group for Select Years",
         fontsize=16,y=0.98
     )
     fig.supxlabel("Age Group")
